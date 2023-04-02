@@ -1,0 +1,22 @@
+{
+  "name": "managmentAppGraphQl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/silavsale/managementSystemGraphql.git",
+  "author": "MoonWalker <silavsale@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "install": "^0.13.0",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
